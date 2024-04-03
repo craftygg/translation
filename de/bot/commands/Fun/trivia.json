@@ -1,0 +1,10 @@
+{
+	"name": "Quiz",
+	"description": "Teste dein Minecraft-Wissen mit diesem Quiz!",
+	"gamemode": "Spielmodus",
+	"selectTriviaGamemode": "Quiz Spielmodus auswählen",
+	"defaultGamemode": "Standard",
+	"showdownGamemode": "Showdown",
+	"defaultGamemodeDescription": "Es wird 1 Minecraft-Quizfrage gestellt, an der alle Nutzer teilnehmen können.",
+	"showdownGamemodeDescription": "Die Nutzerhaben 1 Minute Zeit, um an der Showdown-Runde teilzunehmen. Sobald die Runde beginnt, werden 10 Minecraft-Quizfragen gestellt. Für die Beantwortung jeder Frage haben die Spieler 30 Sekunden Zeit. Wenn ein Showdown falsch antwortet oder die Zeit abläuft, scheidet er aus."
+}
